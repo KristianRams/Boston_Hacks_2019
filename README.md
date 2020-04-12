@@ -19,4 +19,6 @@ Swiping with your right hand to decrease the volume of the speaker by 10 units.
 With your right hand, extend your finger and make a clockwise rotation to skip to the next song. 
 With your right hand, extend your finger and make a counterclockwise rotation to move to the previous song. 
 
-
+Check out the prototype on youtube.com. 
+https://www.youtube.com/watch?v=PzAzKdbcaLI
+https://www.youtube.com/watch?v=928kGELsV_Q
